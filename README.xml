@@ -1405,4 +1405,382 @@
     <display-name lang="es">Telemadrid Int. HEVC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/Telemadrid%20Int..png" />
   </channel>
+   </programme>
+  <programme start="20220819060000 +0200" stop="20220819083000 +0200" channel="La 1 HD">
+	<title lang="es">Noticias 24H</title>
+	<desc lang="es">2021 | 3/5 de 1743 votos
+Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
+(Información, Informativo)
+
+País: España</desc>
+  </programme>
+  <programme start="20220819083000 +0200" stop="20220819100000 +0200" channel="La 1 HD">
+	<title lang="es">La hora de La 1: La hora política T3 E238</title>
+	<desc lang="es">2022 | +7
+Magazine matinal de la 1 presentado por Marc Sala y Silvia Intxaurrondo en el que se reúne información de actualidad con reportajes y entrevistas dedicados a analizar en profundidad el mundo de la política.
+(Entretenimiento, Magacín)
+
+País: España
+Dirección: Lluís Guilera.</desc>
+  </programme>
+  <programme start="20220819100000 +0200" stop="20220819123000 +0200" channel="La 1 HD">
+	<title lang="es">La hora de La 1: La hora de la actualidad T3 E241</title>
+	<desc lang="es">2022 | +16
+Magazine matinal de la 1 presentado por Marc Sala y Silvia Intxaurrondo en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público.
+(Entretenimiento, Magacín)
+
+País: España
+Dirección: Lluís Guilera.</desc>
+  </programme>
+  <programme start="20220819123000 +0200" stop="20220819140000 +0200" channel="La 1 HD">
+	<title lang="es">La hora de La 1 Verano T1 E29</title>
+	<desc lang="es">2022 | +16
+El programa cuenta con reportajes y entrevistas, dedicados a analizar en profundidad el mundo de la política y la actualidad. Cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público, para ayudar a los ciudadanos.
+(Entretenimiento, Magacín)
+
+País: España
+Dirección: Silvia Intxaurrondo, Marc Sala.</desc>
+  </programme>
+  <programme start="20220819140000 +0200" stop="20220819142000 +0200" channel="La 1 HD">
+	<title lang="es">Redifusión La1</title>
+	<desc lang="es">2021 | 3/5 de 321 votos
+Redifusión de los mejores momentos de La1.
+(Entretenimiento, Programa)
+
+País: España</desc>
+  </programme>
+  <programme start="20220819142000 +0200" stop="20220819150000 +0200" channel="La 1 HD">
+	<title lang="es">Corazón T2022</title>
+	<desc lang="es">2022 | +7 | 3/5 de 27 votos
+Crónica social y cultural sobre artistas del mundo de la música, la moda, el cine y el teatro. El espacio incluye reportajes de las grandes pasarelas, cantantes y actores. El objetivo del programa es transmitir también la cara humana y familiar del personaje.
+(Entretenimiento, Corazón, Sociedad)
+
+País: España
+Presenta: Anne Igartiburu.
+Dirección: Rufino Sanchez.
+Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20220819150000 +0200" stop="20220819155500 +0200" channel="La 1 HD">
+	<title lang="es">Telediario 1</title>
+	<desc lang="es">2014 | 3/5 de 1123 votos
+El noticiario audiovisual más veterano de la historia de la televisión en España. Ana Blanco conduce este espacio que ofrece un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte presentada por Lourdes García Campos.
+(Información, Informativo)
+
+País: España
+Presenta: Ana Blanco, Lourdes García Campos.
+Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20220819155500 +0200" stop="20220819161500 +0200" channel="La 1 HD">
+	<title lang="es">Redifusión La1</title>
+	<desc lang="es">2021 | 3/5 de 321 votos
+Redifusión de los mejores momentos de La1.
+(Entretenimiento, Programa)
+
+País: España</desc>
+  </programme>
+  <programme start="20220819161500 +0200" stop="20220819162500 +0200" channel="La 1 HD">
+	<title lang="es">El tiempo</title>
+	<desc lang="es">2014 | 3/5 de 1139 votos
+La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de TVE es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto.
+(Información, Meteorología)
+
+País: España
+Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20220819162500 +0200" stop="20220819174000 +0200" channel="La 1 HD">
+	<title lang="es">Perdidos en la sabana</title>
+	<desc lang="es">2019 | TP | 5/5 de 4 votos
+Dos padres, a punto de divorciarse, quieren celebrar la boda de su hijo en una sabana en Sudáfrica. Pero en lugar de estar preparandose para la fiesta, tienen que luchar contra serpientes y leones.
+(Cine, Comedia)
+
+Título original: Schwiegereltern im Busch
+País: Alemania
+Dirección: Peter Gersina.
+Reparto: Heio Von Stetten, Nadeshda Brennicke, Dirk Borchardt, Ashley Taylor, Athena Strates, Julia Heinze.
+Guion: Timothy Tremper, Sönke Andresen.</desc>
+  </programme>
+  <programme start="20220819174000 +0200" stop="20220819183500 +0200" channel="La 1 HD">
+	<title lang="es">Servir y proteger T7 E35</title>
+	<desc lang="es">2022 | +7
+Recién salida de la Academia de Policía, Alicia Ocaña llega a la comisaría del barrio sur de Madrid. Allí, la inspectora jefe Claudia Miralles, le asigna a Rober Batista como compañero de patrulla. Alicia y Rober chocan al principio pero pronto se dan cuenta de que forman una estupenda pareja.
+(Series, Policiaca)
+
+País: España
+Reparto: Juan José Ballesta, Luisa Martín, Nicolás Coronado, Elisa Mouliaá, Andrea del Río.
+
+Comentarios: Con una marcada presencia femenina en los personajes principales, esta serie policiaca aborda el día a día de una comisaría de barrio. Los casos que se investigan, pequeños o grandes en la escala criminal, no dejan de ser cruciales para las vidas de los afectados, lo que permitirá poner el foco en conflictos de carácter social. La ficción busca además exhibir el lado más humano de los policías, sus emociones y sentimientos ante los casos que se encuentran y mostrar cómo afecta cada caso a la vida del barrio.</desc>
+  </programme>
+  <programme start="20220819183500 +0200" stop="20220819193500 +0200" channel="La 1 HD">
+	<title lang="es">El cazador T8 E35</title>
+	<desc lang="es">2022 | TP
+Concurso de preguntas y respuestas en el que concursantes anónimos luchan frente a un concursante profesional de la televisión para obtener un gran premio final. En el programa, los cuatro concursantes unirán sus conocimientos para ganar al 'cazador'.
+(Entretenimiento, Concurso)
+
+País: España
+Presenta: Rodrigo Vázquez.
+Productora: Mediacrest, Radio Televisión Española (RTVE).</desc>
+  </programme>
+  <programme start="20220819193500 +0200" stop="20220819203000 +0200" channel="La 1 HD">
+	<title lang="es">DIRECTO 1ª etapa: Utrecht-Utrecht. Llegada. Vuelta ciclista a España T2022</title>
+	<desc lang="es">
+La ronda ciclista empieza con una contrarreloj por equipos de poco más de 23 kilómetros que transitará por las calles de la ciudad neerlandesa de Utrecht.
+(Deportes, Ciclismo)
+</desc>
+  </programme>
+  <programme start="20220819203000 +0200" stop="20220819210000 +0200" channel="La 1 HD">
+	<title lang="es">Aquí la Tierra</title>
+	<desc lang="es">2017 | TP | 3/5 de 561 votos
+Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
+(Ocio y Aficiones, Naturaleza)
+
+País: España
+Presenta: Jacob Petrus.</desc>
+  </programme>
+  <programme start="20220819210000 +0200" stop="20220819214000 +0200" channel="La 1 HD">
+	<title lang="es">Telediario 2</title>
+	<desc lang="es">2021 | 3/5 de 1119 votos
+Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Carlos Franganillo. También hay espacio para la parcela deportiva presentada por Arsenio Cañada.
+(Información, Informativo)
+
+País: España
+Presenta: Arsenio Cañada, Carlos Franganillo.
+Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20220819214000 +0200" stop="20220819215500 +0200" channel="La 1 HD">
+	<title lang="es">El tiempo</title>
+	<desc lang="es">2014 | 3/5 de 1139 votos
+La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de TVE es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto.
+(Información, Meteorología)
+
+País: España
+Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20220819215500 +0200" stop="20220819221500 +0200" channel="La 1 HD">
+	<title lang="es">La suerte en tus manos T2022</title>
+	<desc lang="es">2022 | TP
+Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.
+(Ocio y Aficiones, Juegos)
+
+País: España
+Presenta: Silvia Salgado.
+Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20220819221500 +0200" stop="20220820001500 +0200" channel="La 1 HD">
+	<title lang="es">Sabrina (y sus amores)</title>
+	<desc lang="es">1995 | TP | 3/5 de 161 votos
+Sabrina Fairchild  es la hija del chófer de una de las familias más ricas de Nueva York, los Larrabee, y está profundamente enamorada del hijo menor, David, juerguista y mujeriego que apenas tiene relación con ella desde que eran niños. El padre de Sabrina decide mandarla a París para que estudie, se centre y se olvide de su amor infantil por el hijo de los Larrabee. Pasan dos años y Sabrina vuelve hecha una sofisticada mujer de la que David se enamora perdidamente. Pero su amor no va a ser fácil ya que Sabrina ha llegado en el peor momento, a punto de arruinar una millonaria operación financiera que está llevando a cabo el hijo mayor de los Larrabee, Linus, y que consiste en casar a David con la hija de otro multimillonario y conseguir así la fusión de sus imperios familiares. Linus decide entonces que Sabrina tiene que enamorarse de él y olvidarse de David, y hará todo lo posible para que así suceda. Aunque en su intento no cuenta con un imprevisto...
+(Cine, Comedia romántica)
+
+Título original: Sabrina
+País: Alemania y EE.UU.
+Dirección: Sydney Pollack.
+Reparto: Lauren Holly, Julia Ormond, Richard Crenna, Fanny Ardant, Angie Dickinson, Harrison Ford, Nancy Marchand, Greg Kinnear, John Wood, Dana Ivey.
+Guion: David Rayfiel, Barbara Benedek.
+Música: John Williams.
+Producción: Sydney Pollack, Scott Rudin.
+Productora: Paramount Pictures.
+
+Comentarios: Remake de una de las obras maestras de Billy Wilder, "Sabrina" (Idem, 1954), en la que el trío protagonista, uno de los más famosos de la historia del cine, fue encarnado por Humpery Bogart como Linues Larrabe, Audrey Hepburn como Sabrina Fairchild y William Holden como David Larrabee. La película, que en su momento fue considerada como una obra menor de Wilder, ha pasado a la historia del cine como una de sus mejores comedias.</desc>
+  </programme>
+  <programme start="20220820001500 +0200" stop="20220820020500 +0200" channel="La 1 HD">
+	<title lang="es">La sonrisa de Mona Lisa</title>
+	<desc lang="es">2003 | +7 | 3/5 de 266 votos
+En el otoño de 1953, Katherine Watson viaja desde California a la Universidad de Wellesley (Nueva Inglaterra) para enseñar historia del arte. En plena posguerra, Katherine espera que sus estudiantes -las más brillantes del país- aprovechen las oportunidades que se les presentan. Sin embargo, poco después de su llegada, descubre que la prestigiosa institución está estancada en la conformidad.
+(Cine, Drama)
+
+Título original: Mona Lisa Smile
+País: EE.UU.
+Dirección: Mike Newell.
+Reparto: Julia Roberts, Kirsten Dunst, Julia Stiles, Maggie Gyllenhaal, Ginnifer Goodwin, Marcia Gay Harden, Dominic West.
+Guion: Lawrence Konner, Mark Rosenthal.
+Productora: Revolution Studios, Red Om Films.
+
+Comentarios: Según la profesora de etiqueta, un anillo de compromiso en el dedo de una joven es mayor premio que una buena educación. En un mundo en el que les han dicho siempre cómo deben vivir, Katherine les enseñará a pensar por sí mismas y aprenderá ella misma una importante lección.</desc>
+  </programme>
+  <programme start="20220820020500 +0200" stop="20220820024700 +0200" channel="La 1 HD">
+	<title lang="es">This is Us T1 E13: Tres frases</title>
+	<desc lang="es">2016 | +12 | 4/5 de 71 votos
+Jack y Rebecca sobrepasan sus posibilidades cuando deciden organizar tres fiestas diferentes para el décimo cumpleaños de Kate, Kevin y Randall. En el presente, Randall lucha por darle tiempo a William mientras las cosas se intensifican en la oficina; Kevin toma una decisión importante en su vida romántica y la intervención de bypass gástrico de Kate toma un giro inesperado.
+(Series, Drama)
+
+País: EE.UU.
+Reparto: Milo Ventimiglia, Mandy Moore, Sterling K. Brown, Chrissy Metz, Justin Hartley.
+Productora: 20th Century Fox Television, Zaftig Films, Rhode Island Ave. Productions.</desc>
+  </programme>
+  <programme start="20220820024700 +0200" stop="20220820033000 +0200" channel="La 1 HD">
+	<title lang="es">This is Us T1 E14: Me pido matrimonio</title>
+	<desc lang="es">2016 | +12 | 4/5 de 30 votos
+Toby presiona más a Kate durante su proceso de pérdida de peso; Randall lucha por aceptar la deteriorada salud de su padre; y Kevin examina su pasado romántico. En el pasado, Miguel y Shelly tiene noticias debasatadoras para Jack y Rebecca, lo que les hace preocuparse por su propia relación. Rebecca recibe una increíble oportunidad de trabajo.
+(Series, Drama)
+
+País: EE.UU.
+Reparto: Milo Ventimiglia, Mandy Moore, Sterling K. Brown, Chrissy Metz, Justin Hartley.
+Productora: 20th Century Fox Television, Zaftig Films, Rhode Island Ave. Productions.</desc>
+  </programme>
+  <programme start="20220820033000 +0200" stop="20220820060000 +0200" channel="La 1 HD">
+	<title lang="es">Noticias 24H</title>
+	<desc lang="es">2021 | 3/5 de 1743 votos
+Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
+(Información, Informativo)
+
+País: España</desc>
+  </programme>
+  <programme start="20220820060000 +0200" stop="20220820095500 +0200" channel="La 1 HD">
+	<title lang="es">Noticias 24H</title>
+	<desc lang="es">2021 | 3/5 de 1743 votos
+Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
+(Información, Informativo)
+
+País: España</desc>
+  </programme>
+  <programme start="20220820095500 +0200" stop="20220820104500 +0200" channel="La 1 HD">
+	<title lang="es">Vuelvo a empezar T1</title>
+	<desc lang="es">2022 | TP
+La historia de personas que han dejado su vida en la gran ciudad para instalarse en pequeños pueblos de la España rural y aprovechar las oportunidades y calidad de vida que estos ofrecen.
+(Entretenimiento, Tertulia)
+
+País: España</desc>
+  </programme>
+  <programme start="20220820104500 +0200" stop="20220820132500 +0200" channel="La 1 HD">
+	<title lang="es">Comando al sol T2021</title>
+	<desc lang="es">2021 | +7 | 3/5 de 17 votos
+Los reporteros de "Comando Actualidad" no se van de vacaciones y durante el verano recorren la geografía turística española. Comienza la temporada de fiestas, playas, chiringuitos, festividades y, al mismo tiempo, de nuevas oportunidades de trabajo.
+(Información, Reportajes de actualidad)
+
+País: España
+Dirección: Raúl García, Daniel Galindo, César Pérez.</desc>
+  </programme>
+  <programme start="20220820132500 +0200" stop="20220820143000 +0200" channel="La 1 HD">
+	<title lang="es">Viaje al centro de la tele T9</title>
+	<desc lang="es">2020 | TP | 3/5 de 60 votos
+Una mirada al pasado para recuperar alguno de los mejores momentos de la historia de Televisión Española. La nostalgia, el humor y la ironía son los ingredientes principales de un formato amenizado por el grafismo y las viñetas inconfundibles de Antonio Fraguas Forges.
+(Entretenimiento, Zapping)
+
+País: España
+Dirección: Pedro Santos.</desc>
+  </programme>
+  <programme start="20220820143000 +0200" stop="20220820150000 +0200" channel="La 1 HD">
+	<title lang="es">Corazón fin de semana T2022</title>
+	<desc lang="es">2022 | +7 | 3/5 de 9 votos
+Crónica social y cultural sobre artistas del mundo de la música, la moda, el cine y el teatro. El espacio incluye reportajes de las grandes pasarelas, cantantes y actores. El objetivo del programa es transmitir también la cara humana y familiar del personaje.
+(Entretenimiento, Corazón, Sociedad)
+
+País: España
+Presenta: Cristina Fernández.
+Dirección: Rufino Sanchez.
+Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20220820150000 +0200" stop="20220820154500 +0200" channel="La 1 HD">
+	<title lang="es">Telediario 1 Fin de Semana</title>
+	<desc lang="es">2021 | 2/5 de 2078 votos
+Informativo de Televisión Española de los fines de semana. Lara Siscar e Igor Gómez se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes.
+(Información, Informativo)
+
+País: España
+Presenta: Lara Siscar, Igor Gómez, Marcos López.
+Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20220820154500 +0200" stop="20220820160000 +0200" channel="La 1 HD">
+	<title lang="es">El tiempo</title>
+	<desc lang="es">2014 | 3/5 de 1139 votos
+La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de TVE es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto.
+(Información, Meteorología)
+
+País: España
+Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20220820160000 +0200" stop="20220820173000 +0200" channel="La 1 HD">
+	<title lang="es">DIRECTO 2ª etapa: 's-Hertogenbosch-Utrecht. Llegada. Vuelta ciclista a España T2022</title>
+	<desc lang="es">
+El ciclismo completa el calendario 2022 de grandes rondas con la disputa de la Vuelta. La carrera inicia su recorrido el 19 de agosto en la localidad holandesa de Utrecht. La meta final, el 5 de septiembre, se cruzará en Madrid. Roglic fue el vencedor en 2021.
+(Deportes, Ciclismo)
+</desc>
+  </programme>
+  <programme start="20220820173000 +0200" stop="20220820191000 +0200" channel="La 1 HD">
+	<title lang="es">Un engaño de lujo</title>
+	<desc lang="es">2006 | +12 | 4/5 de 109 votos
+Jean es un tímido camarero de un gran hotel al que el azar le permite hacerse pasar  por multimillonario ante Irène, una bella cazafortunas. Ella le rechaza en cuanto descubre quién es en realidad, pero Jean, enamorado de ella, se lanza en su búsqueda hasta encontrarla en la Costa Azul.
+(Cine, Comedia)
+
+Título original: Hors de Prix
+País: España y Francia
+Dirección: Pierre Salvadori.
+Reparto: Gad Elmaleh, Audrey Tautou, Marie-Christine Adam, Vernon Dobtcheff, Jacques Spiesser, Annelise Hesme.
+Guion: Pierre Salvadori, Benoît Graffin, Franck Bauchard.
+Música: Camille Bazbaz, David Hadjadj.
+Producción: Philippe Martin.
+Productora: Canal+, Wild Bunch, TPS Star, Les Films Pelléas.
+
+Comentarios: Pronto, al verse arruinado, Jean decide adoptar el estilo de vida de su amada y se instala como hombre de compañía de una adinerada mujer madura en un magnífico palacio. Su nueva ocupación le acerca a Irène, que termina aceptando su presencia y dándole consejos útiles para su nueva "profesión". Sin darse cuenta, Irène se encariña cada vez más con él...</desc>
+  </programme>
+  <programme start="20220820191000 +0200" stop="20220820210000 +0200" channel="La 1 HD">
+	<title lang="es">Los pecados de una chica casi decente</title>
+	<desc lang="es">1975 | +12 | 3/5 de 174 votos
+Gino es el párroco de un pequeño pueblo de Italia. El mismo día en que el obispo llega a visitarle, Gino tiene que deshacerse del cadáver de un carabinero, muerto en la rectoría tras haber hecho el amor con la hermana del párroco.
+(Cine, Comedia)
+
+País: España
+Dirección: Mariano Ozores.
+Reparto: Lina Morgan, Alfredo Landa, Antonio Ferrandis, Queta Claver, Rafael R. Téllez, Ángel Menéndez, Francisco Camoiras, Adrián Ortega, Joaquín Roa, Pedro Valentín.
+Guion: Mariano Ozores, Pedro Mario Herrero.
+Producción: Julián Esteban.</desc>
+  </programme>
+  <programme start="20220820210000 +0200" stop="20220820211500 +0200" channel="La 1 HD">
+	<title lang="es">Telediario 2 Fin de Semana</title>
+	<desc lang="es">2017 | 2/5 de 2125 votos
+Informativo de Televisión Española de los fines de semana. Lara Siscar e Igor Gómez se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes.
+(Información, Informativo)
+
+País: España
+Presenta: Lara Siscar, Igor Gómez, Marcos López.
+Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20220820211500 +0200" stop="20220820213000 +0200" channel="La 1 HD">
+	<title lang="es">El tiempo</title>
+	<desc lang="es">2014 | 3/5 de 1139 votos
+La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de TVE es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto.
+(Información, Meteorología)
+
+País: España
+Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20220820213000 +0200" stop="20220820220500 +0200" channel="La 1 HD">
+	<title lang="es">Informe Semanal T21/22 E44</title>
+	<desc lang="es">2021 | +7 | 3/5 de 18 votos
+El programa más veterano de la televisión nacional, y el más antiguo de su género en Europa, ofrece la emisión de reportajes de la actualidad internacional, nacional, social o cultural. A veces, los reportajes pueden llegar a tener hasta media hora de duración.
+(Información, Reportajes de actualidad)
+
+País: España
+Presenta: Marisa Rodríguez Palop.
+Dirección: Jenaro Castro Muiña.
+Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20220820220500 +0200" stop="20220820235000 +0200" channel="La 1 HD">
+	<title lang="es">Olivia Newton</title>
+	<desc lang="es">2018 | +12 | 3/5 de 49 votos
+Con apenas 15 años, Newton-John ganó un concurso local de talentos que la llevó a Londres para firmar su primer contrato musical. En unos años se convirtió en la cantante más popular de su país, vendiendo 100 millones de álbumes en todo el mundo. Ha sido una de las actrices más queridas gracias a la interpretación de la inocente Sandy en "Grease". En 1992, la cantante anunció valientemente que tenía cáncer de mama. Tras su recuperación, Olivia se convirtió en una inspiradora y defensora de la investigación científica sobre esta terrible enfermedad y ayudó a establecer el Centro de Cáncer y Bienestar Olivia Newton-John en Melbourne.
+(Telefilme, Drama)
+
+Título original: Olivia Newton-John: Hopelessly Devoted to You
+País: Australia
+Dirección: Shawn Seet.
+Reparto: Delta Goodrem, Kate Jenkinson, Robyn Malcolm, George Harrison Xanthis, Richard Bligh, Todd Lasance.
+
+Comentarios: Olivia Newton-John es muchas cosas para mucha gente, pero, sobre todo, es una superviviente. Interpretada por la actriz Delta Goodrem, esta miniserie -no autorizada por la actriz- se centra en la vida de la popular protagonista de "Grease", una historia de éxito y lucha. En esta producción australiana conoceremos los hechos más significativos de vida de la actriz y cantante a lo largo de cinco décadas.</desc>
+  </programme>
+  <programme start="20220820235000 +0200" stop="20220821012500 +0200" channel="La 1 HD">
+	<title lang="es">Rompiendo las normas</title>
+	<desc lang="es">2020 | +7 | 4/5 de 422 votos
+1970. Mientras el cómico Bob Hope entretiene a las tropas en Vietnam luciendo a Miss Mundo 1969, en Londres, Sally Alexander -divorciada y madre de una niña- intenta ingresar en la Escuela Universitaria para volver a los estudios.
+(Cine, Comedia)
+
+Título original: Misbehaviour
+País: Francia y R.U.
+Dirección: Philippa Lowthorpe.
+Reparto: Keira Knightley, Gugu Mbatha-Raw, Jessie Buckley, Rhys Ifans, Greg Kinnear, Keeley Hawes, Lesley Manville.
+Guion: Rebecca Frayn, Gaby Chiappe.
+Música: Dickon Hinchliffe.
+
+Comentarios: Las acciones del Movimiento por la Liberación de la Mujer durante la retransmisión del concurso Miss Mundo 1970 son el centro de esta comedia (con un punto dramático) protagonizada por Keira Knightley ("Colette", saga "Piratas del Caribe", "The Imitation Game (Descifrando Enigma)"), Gugu Mbatha-Raw ("Huérfanos de Brooklyn", "Belle"), Jessie Buckley ("Judy", "Wild Rose"), Rhys Ifans ("Madame Bovary", "Radio encubierta") y Greg Kinnear ("Un invierno en la playa", "Mejor... imposible"), que da vida al cómico Bob Hope.</desc>
+  </programme>
   </tv>
