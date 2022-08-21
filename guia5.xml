@@ -1455,13 +1455,8 @@
     <display-name lang="es">Telemadrid Int. HEVC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/Telemadrid%20Int..png" />
   </channel>
-	  <programme start="20220819000000 +0000" stop="20220819235959 +0000" channel="Bajo demanda">
-	<title lang="es">dobleM - Canales y EPG</title>
-	<desc lang="es">2021 | 5/5 de 1000000 votos
-Únete a la mejor guía de programación t.me/EPG_dobleM
-(Información, Programa)
-
-País: España
-Dirección: dobleM.</desc>
+	  <programme start="" stop="" channel="">
+	<title lang=""></title>
+	<desc lang="">
   </programme>
   </tv>
