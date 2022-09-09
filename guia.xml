@@ -399,13 +399,18 @@
     <display-name lang="es">DAZN LaLiga.</display-name>
     <display-name lang="es">DAZN LaLiga SD</display-name>
     <display-name lang="es">DAZN LaLiga HD</display-name>
+	<display-name lang="es">DAZN LaLigaHD+</display-name>
     <display-name lang="es">DAZN LaLiga FHD</display-name>
+	<display-name lang="es">DAZN LaLigaFHD</display-name>
     <display-name lang="es">DAZN LaLiga HEVC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/DAZN%20LaLiga%20HD.png" />
   </channel>
   <channel id="LaLiga SmartbankTV HD">
     <display-name lang="es">LaLiga SmartbankTV</display-name>
     <display-name lang="es">LaLiga SmartbankTV.</display-name>
+	<display-name lang="es">LaLigaSmartbankHD</display-name>
+	<display-name lang="es">LaLigaSmartbankHD FULL HD</display-name>
+	<display-name lang="es">LaLiga Smartbank SD</display-name>
     <display-name lang="es">LaLiga SmartbankTV SD</display-name>
     <display-name lang="es">LaLiga SmartbankTV HD</display-name>
     <display-name lang="es">LaLiga SmartbankTV FHD</display-name>
@@ -768,6 +773,8 @@
     <display-name lang="es">LaLiga SmartbankTV 2 HD</display-name>
     <display-name lang="es">LaLiga SmartbankTV 2 FHD</display-name>
     <display-name lang="es">LaLiga SmartbankTV 2 HEVC</display-name>
+	<display-name lang="es">LaLigaSmartbank1HD</display-name>
+	<display-name lang="es">LaLigaSmartbank1HD FULL HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/LaLiga%20SmartbankTV%202%20HD.png" />
   </channel>
   <channel id="LaLiga SmartbankTV 3 HD">
@@ -940,6 +947,10 @@
     <display-name lang="es">DAZN 4 FHD</display-name>
     <display-name lang="es">DAZN 4 HEVC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/DAZN%204%20HD.png" />
+  </channel>
+    <channel id="UFC HD">
+    <display-name lang="es">UFC HD</display-name>
+    <icon src="https://a2.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fufc.png" />
   </channel>
   <channel id="Nickelodeon Ukraine">
     <display-name lang="es">Nickelodeon Ukraine</display-name>
