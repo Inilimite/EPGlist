@@ -539,6 +539,7 @@
     <display-name lang="es">DAZN 2</display-name>
     <display-name lang="es">DAZN 2.</display-name>
     <display-name lang="es">DAZN 2 SD</display-name>
+	<display-name lang="es">DAZN 2 ESP</display-name>
     <display-name lang="es">DAZN 2 HD</display-name>
     <display-name lang="es">DAZN 2 FHD</display-name>
 	<display-name lang="es">DAZN 2 4K</display-name>
@@ -777,7 +778,7 @@
     <display-name lang="es">M+ LaLiga 5 HD</display-name>
     <display-name lang="es">M+ LaLiga 5 FHD</display-name>
     <display-name lang="es">M+ LaLiga 5 HEVC</display-name>
-	<display-name lang="es">M+ LaLiga 5  SOLO EVENTOS </display-name>
+	<display-name lang="es">M+ LaLiga 5   SOLO EVENTOS </display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M%2B%20LaLiga%205.png" />
   </channel>
   <channel id="M+ LaLiga 6">
@@ -838,7 +839,7 @@
     <display-name lang="es">M+ Liga de Campeones 4 HD</display-name>
     <display-name lang="es">M+ Liga de Campeones 4 FHD</display-name>
     <display-name lang="es">M+ Liga de Campeones 4 HEVC</display-name>
-	<display-name lang="es">M+ LCAMPEONES 4   SOLO EVENTOS </display-name>
+	<display-name lang="es">M+ LCAMPEONES 4  SOLO EVENTOS </display-name>
 	<display-name lang="es">M+ LCAMPEONES 4 FULL HD  SOLO EVENTOS </display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" />
   </channel>
@@ -849,7 +850,7 @@
     <display-name lang="es">M+ Liga de Campeones 5 HD</display-name>
     <display-name lang="es">M+ Liga de Campeones 5 FHD</display-name>
     <display-name lang="es">M+ Liga de Campeones 5 HEVC</display-name>
-	<display-name lang="es">M+ LCAMPEONES 5   SOLO EVENTOS </display-name>
+	<display-name lang="es">M+ LCAMPEONES 5  SOLO EVENTOS </display-name>
 	<display-name lang="es">M+ LCAMPEONES 5 FULL HD  SOLO EVENTOS </display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png" />
   </channel>
@@ -860,7 +861,7 @@
     <display-name lang="es">M+ Liga de Campeones 6 HD</display-name>
     <display-name lang="es">M+ Liga de Campeones 6 FHD</display-name>
     <display-name lang="es">M+ Liga de Campeones 6 HEVC</display-name>
-	<display-name lang="es">M+ LCAMPEONES 6   SOLO EVENTOS </display-name>
+	<display-name lang="es">M+ LCAMPEONES 6  SOLO EVENTOS </display-name>
 	<display-name lang="es">M+ LCAMPEONES 6 FULL HD  SOLO EVENTOS </display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%206.png" />
   </channel>
@@ -871,7 +872,7 @@
     <display-name lang="es">M+ Liga de Campeones 7 HD</display-name>
     <display-name lang="es">M+ Liga de Campeones 7 FHD</display-name>
     <display-name lang="es">M+ Liga de Campeones 7 HEVC</display-name>
-	<display-name lang="es">M+ LCAMPEONES 7   SOLO EVENTOS </display-name>
+	<display-name lang="es">M+ LCAMPEONES 7  SOLO EVENTOS </display-name>
 	<display-name lang="es">M+ LCAMPEONES 7 FULL HD  SOLO EVENTOS </display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%207.png" />
   </channel>
@@ -882,7 +883,7 @@
     <display-name lang="es">M+ Liga de Campeones 8 HD</display-name>
     <display-name lang="es">M+ Liga de Campeones 8 FHD</display-name>
     <display-name lang="es">M+ Liga de Campeones 8 HEVC</display-name>
-	<display-name lang="es">M+ LCAMPEONES 8   SOLO EVENTOS </display-name>
+	<display-name lang="es">M+ LCAMPEONES 8  SOLO EVENTOS </display-name>
 	<display-name lang="es">M+ LCAMPEONES 8 FULL HD  SOLO EVENTOS </display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%208.png" />
   </channel>
@@ -893,7 +894,7 @@
     <display-name lang="es">M+ Liga de Campeones 9 HD</display-name>
     <display-name lang="es">M+ Liga de Campeones 9 FHD</display-name>
     <display-name lang="es">M+ Liga de Campeones 9 HEVC</display-name>
-	<display-name lang="es">M+ LCAMPEONES 9   SOLO EVENTOS </display-name>
+	<display-name lang="es">M+ LCAMPEONES 9  SOLO EVENTOS </display-name>
 	<display-name lang="es">M+ LCAMPEONES 9 FULL HD  SOLO EVENTOS </display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%209.png" />
   </channel>
@@ -904,7 +905,7 @@
     <display-name lang="es">M+ Liga de Campeones 10 HD</display-name>
     <display-name lang="es">M+ Liga de Campeones 10 FHD</display-name>
     <display-name lang="es">M+ Liga de Campeones 10 HEVC</display-name>
-	<display-name lang="es">M+ LCAMPEONES 10   SOLO EVENTOS </display-name>
+	<display-name lang="es">M+ LCAMPEONES 10  SOLO EVENTOS </display-name>
 	<display-name lang="es">M+ LCAMPEONES 10 FULL HD  SOLO EVENTOS </display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2010.png" />
   </channel>
@@ -915,7 +916,7 @@
     <display-name lang="es">M+ Liga de Campeones 11 HD</display-name>
     <display-name lang="es">M+ Liga de Campeones 11 FHD</display-name>
     <display-name lang="es">M+ Liga de Campeones 11 HEVC</display-name>
-	<display-name lang="es">M+ LCAMPEONES 11   SOLO EVENTOS </display-name>
+	<display-name lang="es">M+ LCAMPEONES 11  SOLO EVENTOS </display-name>
 	<display-name lang="es">M+ LCAMPEONES 11 FULL HD  SOLO EVENTOS </display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2011.png" />
   </channel>
@@ -926,7 +927,7 @@
     <display-name lang="es">M+ Liga de Campeones 12 HD</display-name>
     <display-name lang="es">M+ Liga de Campeones 12 FHD</display-name>
     <display-name lang="es">M+ Liga de Campeones 12 HEVC</display-name>
-	<display-name lang="es">M+ LCAMPEONES 12   SOLO EVENTOS </display-name>
+	<display-name lang="es">M+ LCAMPEONES 12  SOLO EVENTOS </display-name>
 	<display-name lang="es">M+ LCAMPEONES 12 FULL HD  SOLO EVENTOS </display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2012.png" />
   </channel>
@@ -937,7 +938,7 @@
     <display-name lang="es">M+ Liga de Campeones 13 HD</display-name>
     <display-name lang="es">M+ Liga de Campeones 13 FHD</display-name>
     <display-name lang="es">M+ Liga de Campeones 13 HEVC</display-name>
-	<display-name lang="es">M+ LCAMPEONES 13   SOLO EVENTOS </display-name>
+	<display-name lang="es">M+ LCAMPEONES 13  SOLO EVENTOS </display-name>
 	<display-name lang="es">M+ LCAMPEONES 13 FULL HD  SOLO EVENTOS </display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2013.png" />
   </channel>
