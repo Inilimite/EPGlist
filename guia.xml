@@ -205,7 +205,7 @@
   </channel>
   <channel id="Canal Hollywood HD">
     <display-name lang="es">Canal Hollywood</display-name>
-	<display-name lang="es">Hollywood</display-name>
+	<display-name lang="es">HOLLYWOOD HD</display-name>
     <display-name lang="es">Canal Hollywood.</display-name>
     <display-name lang="es">Canal Hollywood SD</display-name>
     <display-name lang="es">Canal Hollywood HD</display-name>
@@ -242,8 +242,9 @@
     <display-name lang="es">M+ Series HD</display-name>
     <display-name lang="es">M+ Series FHD</display-name>
 	<display-name lang="es">M+ Series FULL HD</display-name>
-	<display-name lang="es">M Series FULL HD</display-name>
+	<display-name lang="es">M  SERIES FULL HD</display-name>
     <display-name lang="es">M+ Series HEVC</display-name>
+	<display-name lang="es">M+ SERIES 4K</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M%2B%20Series%20HD.png" />
   </channel>
   <channel id="M+ Series 2 HD">
