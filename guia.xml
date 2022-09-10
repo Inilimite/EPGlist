@@ -396,11 +396,15 @@
   </channel>
   <channel id="DAZN LaLiga HD">
     <display-name lang="es">DAZN LaLiga</display-name>
+	<display-name lang="es">DAZN LaLiga 2K</display-name>
+	<display-name lang="es">DAZN LaLiga 4K</display-name>
     <display-name lang="es">DAZN LaLiga.</display-name>
     <display-name lang="es">DAZN LaLiga SD</display-name>
     <display-name lang="es">DAZN LaLiga HD</display-name>
+	<display-name lang="es">DAZN LaLigaHD</display-name>
 	<display-name lang="es">DAZN LaLigaHD+</display-name>
     <display-name lang="es">DAZN LaLiga FHD</display-name>
+	<display-name lang="es">DAZN LaLigaHD FULL HD</display-name>
 	<display-name lang="es">DAZN LaLigaFHD</display-name>
     <display-name lang="es">DAZN LaLiga HEVC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/DAZN%20LaLiga%20HD.png" />
@@ -408,8 +412,8 @@
   <channel id="LaLiga SmartbankTV HD">
     <display-name lang="es">LaLiga SmartbankTV</display-name>
     <display-name lang="es">LaLiga SmartbankTV.</display-name>
-	<display-name lang="es">LaLigaSmartbankHD</display-name>
-	<display-name lang="es">LaLigaSmartbankHD FULL HD</display-name>
+	<display-name lang="es">LigaSmartbankHD</display-name>
+	<display-name lang="es">LigaSmartbankHD FULL HD</display-name>
 	<display-name lang="es">LaLiga Smartbank SD</display-name>
     <display-name lang="es">LaLiga SmartbankTV SD</display-name>
     <display-name lang="es">LaLiga SmartbankTV HD</display-name>
@@ -762,7 +766,9 @@
     <display-name lang="es">DAZN LaLiga 2.</display-name>
     <display-name lang="es">DAZN LaLiga 2 SD</display-name>
     <display-name lang="es">DAZN LaLiga 2 HD</display-name>
+	<display-name lang="es">DAZN LaLiga2 HD</display-name>
     <display-name lang="es">DAZN LaLiga 2 FHD</display-name>
+	<display-name lang="es">DAZN LaLiga2 HD FULL HD</display-name>
     <display-name lang="es">DAZN LaLiga 2 HEVC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/DAZN%20LaLiga%202%20HD.png" />
   </channel>
@@ -773,8 +779,8 @@
     <display-name lang="es">LaLiga SmartbankTV 2 HD</display-name>
     <display-name lang="es">LaLiga SmartbankTV 2 FHD</display-name>
     <display-name lang="es">LaLiga SmartbankTV 2 HEVC</display-name>
-	<display-name lang="es">LaLigaSmartbank1HD</display-name>
-	<display-name lang="es">LaLigaSmartbank1HD FULL HD</display-name>
+	<display-name lang="es">LigaSmartbank1HD</display-name>
+	<display-name lang="es">LigaSmartbank1HD FULL HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/LaLiga%20SmartbankTV%202%20HD.png" />
   </channel>
   <channel id="LaLiga SmartbankTV 3 HD">
