@@ -76,9 +76,9 @@
     <display-name lang="es">M+ #0 HD</display-name>
     <display-name lang="es">M+ #0 FHD</display-name>
     <display-name lang="es">M+ #0 HEVC</display-name>
-	<display-name lang="es">M+ 0 HD</display-name>
-	<display-name lang="es">M+ 0 FULL HD</display-name>
-	<display-name lang="es">M+ 0 4K</display-name>
+	<display-name lang="es">M+  0 HD</display-name>
+	<display-name lang="es">M+  0 FULL HD</display-name>
+	<display-name lang="es">M+  0 4K</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M%2B%20%230%20HD.png" />
   </channel>
   <channel id="M+ #Vamos HD">
@@ -138,7 +138,7 @@
     <display-name lang="es">M+ Acción FHD</display-name>
 	<display-name lang="es">M+ Accion HD</display-name>
     <display-name lang="es">M+ Accion FULL HD</display-name>
-    <display-name lang="es">M+ Accion 4K</display-name>
+    <display-name lang="es">M+ ACCI  N 4K</display-name>
     <display-name lang="es">M+ Acción HEVC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M%2B%20Acci%C3%B3n%20HD.png" />
   </channel>
@@ -170,8 +170,8 @@
     <display-name lang="es">M+ Cine Español SD</display-name>
     <display-name lang="es">M+ Cine Español HD</display-name>
     <display-name lang="es">M+ Cine Español FHD</display-name>
-	<display-name lang="es">M+ Cine Espa ol HD</display-name>
-    <display-name lang="es">M+ Cine Espa ol FULL HD</display-name>
+	<display-name lang="es">M+ Cine Espa  ol</display-name>
+    <display-name lang="es">M+ Cine Espa  ol FULL HD</display-name>
     <display-name lang="es">M+ Cine Español HEVC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M%2B%20Cine%20Espa%C3%B1ol.png" />
   </channel>
@@ -205,11 +205,12 @@
   </channel>
   <channel id="Canal Hollywood HD">
     <display-name lang="es">Canal Hollywood</display-name>
+	<display-name lang="es">Hollywood</display-name>
     <display-name lang="es">Canal Hollywood.</display-name>
     <display-name lang="es">Canal Hollywood SD</display-name>
     <display-name lang="es">Canal Hollywood HD</display-name>
     <display-name lang="es">Canal Hollywood FHD</display-name>
-	<display-name lang="es">Canal Hollywood FULL HD</display-name>
+	<display-name lang="es">Hollywood FULL HD</display-name>
     <display-name lang="es">Canal Hollywood HEVC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/Canal%20Hollywood%20HD.png" />
   </channel>
@@ -241,7 +242,7 @@
     <display-name lang="es">M+ Series HD</display-name>
     <display-name lang="es">M+ Series FHD</display-name>
 	<display-name lang="es">M+ Series FULL HD</display-name>
-	<display-name lang="es">M Series FHD</display-name>
+	<display-name lang="es">M Series FULL HD</display-name>
     <display-name lang="es">M+ Series HEVC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M%2B%20Series%20HD.png" />
   </channel>
@@ -302,6 +303,7 @@
     <display-name lang="es">Calle 13 SD</display-name>
     <display-name lang="es">Calle 13 HD</display-name>
     <display-name lang="es">Calle 13 FHD</display-name>
+	<display-name lang="es">Calle 13 FULL HD</display-name>
     <display-name lang="es">Calle 13 HEVC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/Calle%2013%20HD.png" />
   </channel>
@@ -341,6 +343,7 @@
     <display-name lang="es">SyFy SD</display-name>
     <display-name lang="es">SyFy HD</display-name>
     <display-name lang="es">SyFy FHD</display-name>
+	<display-name lang="es">SyFy FULL HD</display-name>
     <display-name lang="es">SyFy HEVC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/SyFy%20HD.png" />
   </channel>
@@ -1121,6 +1124,7 @@
   </channel>
   <channel id="MTV España">
     <display-name lang="es">MTV España</display-name>
+	<display-name lang="es">MTV Espana</display-name>
     <display-name lang="es">MTV España.</display-name>
     <display-name lang="es">MTV España SD</display-name>
     <display-name lang="es">MTV España HD</display-name>
